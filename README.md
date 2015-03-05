@@ -1,12 +1,30 @@
-# admin
+grilla-admin
+======
+Admin tool for La Grilla's API
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.11.1.
+## Getting Started
+1. Checkout the repo
 
-## Build & development
+2. Install dependencies with `npm install`
 
-Run `grunt` for building and `grunt serve` for preview.
+3. Start in debug mode with `npm start`
 
-## Testing
+## Workflow
 
-Running `grunt test` will run the unit tests with karma.
+#### Development
+```bash
+npm start
+```
+
+#### Testing
+```bash
+npm test
+```
+
+#### Production
+```bash
+npm run build
+```
+
+## Dependencies
+- [NodeJS](http://nodejs.org/)
