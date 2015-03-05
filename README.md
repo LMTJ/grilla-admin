@@ -27,4 +27,6 @@ npm run build
 ```
 
 ## Dependencies
+- [Grunt](http://gruntjs.com/)
+- [Bower](http://bower.io/)
 - [NodeJS](http://nodejs.org/)
